@@ -1,3 +1,8 @@
+![Awesome](https://awesome.re/badge.svg) 
+![Profile Views](https://komarev.com/ghpvc/?username=brevers)
+
+
+
 ### Hi there 👋
 
 This is Tamara DiBre, curious, passionate and self-taught Full Stack web developer based in Dublin. My passion for computing lies with dreaming up ideas and making them come true with nice interfaces. I have more than four years of experience with, web development and databases. 

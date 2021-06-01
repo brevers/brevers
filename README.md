@@ -19,7 +19,7 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 
 - 💬 Ask me about anything, I would love to chat with you!
 - 🤔  “Problems are not stop signs, they are guidelines.” 
-- ⚡ Fun fact: I was part of the Spanish military service for a year. I still wonder why ?¿
+- ⚡ Fun fact: I always thought that I was going to be famous or an elite athlete.
 -->
 <br/><br/>
 

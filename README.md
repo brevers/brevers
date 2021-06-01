@@ -35,8 +35,9 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code> 
 
 <br/><br/>
 
-### Let's Connect !! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamara-diaz/)](https://www.linkedin.com/in/tamara-diaz/) 
+### Let's Connect !! 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamara-diaz/)](https://www.linkedin.com/in/tamara-diaz/) 

@@ -23,7 +23,7 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 -->
 <br/><br/>
 <br/><br/>
-- 📙 CAREER INFORMATION --> [MY CURRICULUM VITAE](https://brevers.github.io/)
+- 📙 CAREER INFORMATION --> [MY CURRICULUM VITAE](https://brevers.github.io/2021CV/)
 - 📙 MORE ABOUT ME --> [My Portfolio](https://brevers.github.io/) 
 <br/><br/>
 

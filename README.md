@@ -22,7 +22,9 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 - ⚡ Fun fact: I always thought that I was going to be an elite athlete.
 -->
 <br/><br/>
-- 📙 Find out more about me here --> [Tamara DB](https://brevers.github.io/)
+<br/><br/>
+- 📙 CAREER INFORMATION --> [MY CURRICULUM VITAE](https://brevers.github.io/)
+- 📙 MORE ABOUT ME --> [My Portfolio](https://brevers.github.io/) 
 <br/><br/>
 
 <br/><br/>

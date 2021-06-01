@@ -5,10 +5,10 @@
 
 ### Hi there 👋
 
-This is Tamara DiBre, curious, passionate and self-taught Full Stack web developer based in Dublin. My passion for computing lies with dreaming up ideas and making them come true with nice interfaces. I have more than four years of experience with, web development and databases. 
+This is Tamara DiBre, curious, passionate and self-taught Full Stack web developer based in Dublin. My passion for computing lies with dreaming up ideas and making them come true with nice interfaces. I have more than four years of experience with, web development and databases. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brevers&layout=comeact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brevers&layout=compact)
 
 <br/><br/>
 

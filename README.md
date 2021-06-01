@@ -19,8 +19,12 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 
 - 💬 Ask me about anything, I would love to chat with you!
 - 🤔  “Problems are not stop signs, they are guidelines.” 
-- ⚡ Fun fact: I always thought that I was going to be famous or an elite athlete.
+- ⚡ Fun fact: I always thought that I was going to be an elite athlete.
 -->
+<br/><br/>
+- 📙 Find out more about me here --> [Tamara DB](https://brevers.github.io/)
+<br/><br/>
+
 <br/><br/>
 
 ### ⚙️ Some Tools that I use
@@ -38,6 +42,7 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 <code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code> 
 
 <br/><br/>
+
 
 ### Let's Connect !! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamara-diaz/)](https://www.linkedin.com/in/tamara-diaz/) 

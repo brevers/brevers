@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-This is Tamara DiBre, curious, passionate and self-taught Full Stack web developer based in Dublin. My passion for computing lies with dreaming up ideas and making them come true with nice interfaces. I have more than four years of experience with, web development and databases. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+This is Tamara DiBre, curious, passionate and self-taught junior web developer based in Dublin. My passion for computing lies with dreaming up ideas and making them come true with nice interfaces. I have more than four years of experience with web development and databases. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brevers&layout=compact)
@@ -13,9 +13,9 @@ This is Tamara DiBre, curious, passionate and self-taught Full Stack web develop
 <br/><br/>
 
 
-- 🔭 I’m currently in my 3rd year pursuing a bacherlor's of technology in Computing Engeneering.
+- 🔭 I’m currently in my 3rd year pursuing a Bachelor's degree of technology in Computing Engineering.
 - 🌱 I’m currently learning Power BI && MongoDB.
-- 👯 I’m looking to collaborate on anythng related with data analyst || data scientist.
+- 👯 I’m looking to collaborate on anythng related with data analysis || data science.
 
 - 💬 Ask me about anything, I would love to chat with you!
 - 🤔  “Problems are not stop signs, they are guidelines.” 

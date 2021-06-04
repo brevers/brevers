@@ -13,7 +13,7 @@ This is Tamara DiBre, curious, passionate and self-taught junior web developer b
 <br/><br/>
 
 
-- 🔭 I’m currently in my 3rd year pursuing a Bachelor's degree of technology in Computing Engineering.
+- 🔭 I’m currently in my 3rd year pursuing a Bachelor's degree of technology in Computer Science.
 - 🌱 I’m currently learning Power BI && MongoDB.
 - 👯 I’m looking to collaborate on anythng related with data analysis || data science.
 

@@ -9,7 +9,6 @@ This is Tamara DiBre, curious, passionate and self-taught junior web developer b
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brevers&layout=compact)
-
 <br/><br/>
 
 

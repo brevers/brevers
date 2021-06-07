@@ -17,7 +17,7 @@ This is Tamara DiBre, curious, passionate and self-taught junior web developer b
 - 👯 I’m looking to collaborate on anythng related with data analysis || data science.
 
 - 💬 Ask me about anything, I would love to chat with you!
-- 🤔  “Problems are not stop signs, they are guidelines.” 
+- 🤔  “Problems are not stop signs, they are guidelines”. 
 - ⚡ Fun fact: I always thought that I was going to be an elite athlete.
 
 <br/><br/>

@@ -42,7 +42,7 @@ This is Tamara DiBre, curious, passionate and self-taught junior web developer b
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code> 
 
-<br/><br/>
+<br/><br/>   
 
 
 ### Let's Connect !! 

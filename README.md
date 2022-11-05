@@ -9,8 +9,7 @@ This is Tamara DiBre, curious, passionate and self-taught junior web developer b
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brevers&layout=compact)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=brevers&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 <br/><br/>
 
 

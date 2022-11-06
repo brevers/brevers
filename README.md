@@ -22,6 +22,7 @@ This is Tamara DiBre, curious, passionate and self-taught junior web developer b
 - ⚡ Fun fact: I always thought that I was going to be an elite athlete.
 
 <br/><br/>
+
 <br/><br/>
 - 📙 CAREER INFORMATION --> [MY CURRICULUM VITAE](https://brevers.github.io/2021CV/)
 - 📙 MORE ABOUT ME --> [My Portfolio](https://brevers.github.io/) 
